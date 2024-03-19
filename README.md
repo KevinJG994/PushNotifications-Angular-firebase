@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/KevinJG994/PushNotifications-Angular-firebase)
+![GitHub last commit](https://img.shields.io/github/last-commit/KevinJG994/PushNotifications-Angular-firebase)
+
 # Push Notifications 📫
 
 Esta es una aplicación simple desarrollada en Angular la cual solicita permisos al usuario para recibir notificaciones. Una vez que el usuario acepta, la aplicación recibe notificaciones push utilizando Firebase Cloud Messaging (FCM).
